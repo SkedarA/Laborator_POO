@@ -1,0 +1,5 @@
+﻿  Lab02_POO.cpp
+D:\Universitate\POO\Lab02_POO\Lab02_POO\Lab02_POO.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+D:\Universitate\POO\Lab02_POO\Lab02_POO\Lab02_POO.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab02_POO.vcxproj -> D:\Universitate\POO\Lab02_POO\x64\Debug\Lab02_POO.exe
