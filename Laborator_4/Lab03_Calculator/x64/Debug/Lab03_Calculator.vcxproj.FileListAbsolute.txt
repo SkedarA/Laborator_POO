@@ -1,8 +1,0 @@
-D:\Universitate\POO\Lab03_Calculator\Lab03_Calculator\x64\Debug\Lab03_Calculator.vcxproj.AssemblyReference.cache
-D:\Universitate\POO\Lab03_Calculator\Lab03_Calculator\x64\Debug\Lab03_Calculator.vcxproj.SuggestedBindingRedirects.cache
-D:\Universitate\POO\Lab03_Calculator\Lab03_Calculator\x64\Debug\Lab03_Calculator.Form1.resources
-D:\Universitate\POO\Lab03_Calculator\Lab03_Calculator\x64\Debug\Lab03_Calculator.vcxproj.GenerateResource.cache
-D:\Universitate\POO\Lab04_Calculator\Lab03_Calculator\x64\Debug\Lab03_Calculator.vcxproj.AssemblyReference.cache
-D:\Universitate\POO\Lab04_Calculator\Lab03_Calculator\x64\Debug\Lab03_Calculator.vcxproj.SuggestedBindingRedirects.cache
-D:\Universitate\POO\Lab04_Calculator\Lab03_Calculator\x64\Debug\Lab03_Calculator.Form1.resources
-D:\Universitate\POO\Lab04_Calculator\Lab03_Calculator\x64\Debug\Lab03_Calculator.vcxproj.GenerateResource.cache
