@@ -1,0 +1,4 @@
+D:\Universitate\POO\Lab03_02_POO\Lab03_02_POO\x64\Debug\Lab03_02_POO.vcxproj.AssemblyReference.cache
+D:\Universitate\POO\Lab03_02_POO\Lab03_02_POO\x64\Debug\Lab03_02_POO.vcxproj.SuggestedBindingRedirects.cache
+D:\Universitate\POO\Lab03_02_POO\Lab03_02_POO\x64\Debug\Lab03_02_POO.Form1.resources
+D:\Universitate\POO\Lab03_02_POO\Lab03_02_POO\x64\Debug\Lab03_02_POO.vcxproj.GenerateResource.cache
